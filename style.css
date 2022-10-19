@@ -1,0 +1,10 @@
+#fundo{
+    width: 100%;
+    height: 80vh;
+}
+.fogo {
+    position: absolute;
+    width: 50px;
+    top: 120px;
+    left: 190px;
+}
